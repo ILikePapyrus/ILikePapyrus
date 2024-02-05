@@ -8,3 +8,4 @@
 ILikePapyrus/ILikePapyrus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+[![GitHub Stats](https://gh-readme-profile.vercel.app/api?username=ILikePapyrus)](https://github.com/FajarKim/github-readme-profile)
