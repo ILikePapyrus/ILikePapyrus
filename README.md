@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ILikePapyrus, an Italian IT student
 - 👀 I’m interested in AI (especially Tensorflow), Animes and Videogames (love ETS2, Minecraft, KSP)
 - 🌱 I’m currently learning Java, Python, HTML, CSS, JS
-- 💻 If I'll have time I'm going to learn React (animations in websites are COOOOL) or Vue.js
+- 💻 If I'll have time I'm going to learn React (animations in websites are COOOOL) **or** Vue.js
 <!--- - 📫 How to reach me ... --->
 
 <!---
