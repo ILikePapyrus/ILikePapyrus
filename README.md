@@ -1,7 +1,12 @@
 - 👋 Hi, I’m @ILikePapyrus, an Italian IT student
 - 👀 I’m interested in AI (especially Tensorflow), Animes and Videogames (love ETS2/ATS, Minecraft, KSP)
-- 🌱 I’m currently learning Java, Python, HTML, CSS, JS
+- 🌱 I’m currently learning Java, Python, HTML, CSS, JS, Sass
+- 🎨 I'm interested in learning Vulkan and C++ (the cube tutorial is sooo long) alongside ImGUI
 - 💻 If I'll have time I'm going to learn React (animations in websites are COOOOL) **or** Vue.js
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,mysql,php,java,idea,linux,md,py,pycharm,visualstudio)](https://skillicons.dev)
+
+
 <!--- - 📫 How to reach me ... --->
 
 <!---
