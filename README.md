@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ILikePapyrus, an Italian IT student
-- 👀 I’m interested in AI / Deep Learning, Anime and Videogames (love ETS2/ATS, Minecraft, KSP)
+- 👀 I’m interested in AI / Deep Learning, Anime and Videogames (love ETS2/ATS, Minecraft, KSP, Deltarune)
 - 🌱 I’m currently learning HTML, CSS, JS, Sass, C++, Vulkan
 - 🎨 I'm interested in learning Vulkan and C++ (the tutorial is sooo long) alongside ImGUI
 - 💻 If I'll have time I'm going to learn React (animations in websites are COOOOL) **or** Vue.js
